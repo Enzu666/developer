@@ -1,0 +1,55 @@
+/*reset css */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    height: 100vh;
+    background-color: rgb(80, 80, 238);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+main{
+    display: flex;
+    flex-direction: column;
+    gap: 32px;
+}
+h1{
+    font-size: 128px;
+    font-family: sans-serif;
+}
+h2{
+    text-align: center;
+    font-size: 48px;
+    font-family: sans-serif;
+    font-weight: 100;
+}
+.destaque{
+    background-color: black;
+    color: #fff;
+    padding: 1px 32px;  
+    border-radius: 50%;
+    transition: 1s;
+
+}
+.destaque:hover{
+    padding: 8px 32px;
+    background-color: blueviolet;
+}
+.social_container img{
+    width: 48px;
+}
+.social_container{
+    display: flex;
+    justify-content: space-around;
+    padding: 1px 32px;
+
+}
+.social_container a:hover{
+    background-color: blueviolet;
+}
+a{
+    transition: 1s;
+}
