@@ -17,6 +17,8 @@ main{
     gap: 32px;
 }
 h1{
+    color: white;
+    background-color: blue;
     font-size: 128px;
     font-family: sans-serif;
 }
