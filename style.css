@@ -6,7 +6,7 @@
 }
 body{
     height: 100vh;
-    background-color: rgb(80, 80, 238);
+    background-color: black;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -28,7 +28,7 @@ h2{
     font-weight: 100;
 }
 .destaque{
-    background-color: black;
+    background-color: white;
     color: #fff;
     padding: 1px 32px;  
     border-radius: 50%;
@@ -43,6 +43,7 @@ h2{
     width: 48px;
 }
 .social_container{
+    background-color: white;
     display: flex;
     justify-content: space-around;
     padding: 1px 32px;
