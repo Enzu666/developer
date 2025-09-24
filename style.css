@@ -38,11 +38,11 @@ h2{
 }
 .destaque:hover{
     padding: 8px 32px;
-    background-color: blueviolet;
+    background-color: white;
 }
 .social_container img{
     width: 48px;
-    background-color: white;
+    background-color: gray;
 }
 .social_container{
     filter: drop-shadow(0px 200px 20px #0006);
