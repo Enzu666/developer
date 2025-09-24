@@ -29,7 +29,7 @@ h2{
     color : white;
 }
 .destaque{
-    background-color: white;
+    box-shadow: white;
     color: black;
     padding: 1px 32px;  
     border-radius: 50%;
