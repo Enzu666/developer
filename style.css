@@ -6,7 +6,7 @@
 }
 body{
     height: 100vh;
-    background: linear-gradient(#bababa,#242323 50%,#262121 60%,#b2b2b2);
+    background: linear-gradient(#242323 50%,#262121 60%,#b2b2b2);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -44,16 +44,10 @@ h2{
     width: 48px;
 }
 .social_container{
-    background-color: blueviolet;
-    
+    box-shadow: white;
     display: flex;
     justify-content: space-around;
     padding: 1px 32px;
 
 }
-.social_container a:hover{
-    background-color: white;
-}
-a{
-    transition: 1s;
-}
+
