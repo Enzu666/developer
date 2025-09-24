@@ -44,14 +44,15 @@ h2{
     width: 48px;
 }
 .social_container{
-    background-color: white;
+    background-color: blueviolet;
+    
     display: flex;
     justify-content: space-around;
     padding: 1px 32px;
 
 }
 .social_container a:hover{
-    background-color: blueviolet;
+    background-color: white;
 }
 a{
     transition: 1s;
