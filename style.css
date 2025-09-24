@@ -42,9 +42,10 @@ h2{
 }
 .social_container img{
     width: 48px;
-    filter: drop-shadow(0px 200px 20px #0006);
+    background-color: white;
 }
 .social_container{
+    filter: drop-shadow(0px 200px 20px #0006);
     display: flex;
     justify-content: space-around;
     padding: 1px 32px;
